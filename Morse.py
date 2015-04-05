@@ -153,3 +153,4 @@ for char in list(x):
                 break
             if case(' '):
                 time.sleep(0.7)
+                break
